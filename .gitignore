@@ -1,0 +1,23 @@
+# Unreal Engine 5 generated/cache folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE & OS files
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
